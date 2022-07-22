@@ -49,7 +49,7 @@
 | Annotation                       | *어노테이션*                                                               | 주석                           |
 | Comment                          | *코멘트*                                                                   | 주석                           |
 | Shell                            | *셸*<sup>[온라인가나다 상세보기(shell은 쉘인가요 셸인가요?)][]</sup>, *쉘* |                                |
-| Internationalization[i18n]       | *인터네셔널라이제이션*                                                     | 국제화                         |
+| Internationalization[i18n]       | *인터내셔널라이제이션*                                                     | 국제화                         |
 | Localization[l10n]               | *로컬라이제이션*                                                           | 지역화                         |
 | Globalization[g11n]              | *글로벌라이제이션*                                                         | 세계화                         |
 | Configuration                    | *컨피규레이션*                                                             | 설정                           |
