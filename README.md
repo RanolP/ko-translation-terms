@@ -40,7 +40,7 @@
 | Time Complexity           | *타임 컴플렉시티*        | 시간 복잡도                   |
 | Space Complexity          | *스페이스 컴플렉시티*    | 공간 복잡도                   |
 | Dynamic Programming[DP]   | *다이나믹 프로그래밍*    | 동적 계획법/기억하며 풀기#    |
-| Divide and Conquer        | *디바이드 앤드 컨쿼*     | 분할 정복                     |
+| Divide and Conquer        | *디바이드 앤드 컨커*     | 분할 정복                     |
 | Greedy                    | *그리디*                 | 탐욕법/욕심쟁이               |
 | Bruteforce                | *브루트포스*             | 무차별 대입                   |
 | Binary Search             | *바이너리 서치*          | 이진 탐색/이분 탐색/이진 검색 |
