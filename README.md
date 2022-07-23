@@ -132,6 +132,9 @@
 | Procedure                        | *프로시저*                                                                 |                      |
 | Closure                          | *클로저*                                                                   |                      |
 | Routine                          | *루틴*                                                                     |                      |
+| Garbage Collection[GC]           | *가비지 콜렉션*                                                            | 쓰레기 수집          |
+| Lazy                             | *레이지*                                                                   | (계산을) 미루는      |
+| Continuation                     | *컨티뉴에이션*                                                             | 후속문               |
 
 ## 외부 링크
 
