@@ -67,8 +67,7 @@
 | Hash Set                  | *해시셋*                 | 해시를 이용한 집합#           |
 | Segment Tree              | *세그먼트 트리*          |                               |
 | Graph                     | *그래프*                 |                               |
-| Tree                      | *트리*                   | 나무#                         |
-| Binary Tree               | *바이너리 트리*          | 이진 트리                     |
+| Tree                      | *트리*                   | 수형도/나무#                  |
 | Binary Tree               | *바이너리 트리*          | 이진 트리                     |
 | Complete Binary Tree      | *컴플리트 바이너리 트리* | 완전 이진 트리                |
 | Full Binary Tree          | *풀 바이너리 트리*       | 전 이진 트리                  |
