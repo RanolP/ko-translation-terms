@@ -124,7 +124,7 @@
 | Package                          | *패키지*                                                                   | 꾸러미#              |
 | Module                           | *모듈*                                                                     |                      |
 | Property                         | *프로퍼티*                                                                 | 속성                 |
-| Attribute                        | *어트리뷰트*                                                               | 속성                 |
+| Attribute                        | *어트리뷰트*                                                               | 속성/특성            |
 | Annotation                       | *어노테이션*                                                               | 주석                 |
 | Comment                          | *코멘트*                                                                   | 주석                 |
 | Shell                            | *셸*<sup>[온라인가나다 상세보기(shell은 쉘인가요 셸인가요?)][]</sup>, *쉘* |                      |
@@ -177,6 +177,10 @@
 | Polymorphism                     | *폴리모피즘*                                                               | 다형성               |
 | Inheritance                      | *인헤리턴스*                                                               | 상속                 |
 | Class                            | *클래스*                                                                   |                      |
+| Object                           | *오브젝트*                                                                 | 객체                 |
+| Method                           | *메서드*                                                                   |                      |
+| Expression                       | *익스프레션*                                                               | 표현식/식            |
+| Statement                        | *스테이트먼트*                                                             | 구문/문              |
 
 ## 외부 링크
 
@@ -184,6 +188,11 @@
 - [번역용례 - 이광근 교수 외](http://kwangkeunyi.snu.ac.kr/lib/term/)
 - [영어-한글 표기 변환기 Alpha -  muik (2016)](https://transliterator.herokuapp.com/)
 - [한국어 어문 규범 용례 찾기 - 국립국어원](https://kornorms.korean.go.kr//example/exampleList.do)
+- [Webpack 문서 한국어 번역 용어집 - LINE](https://github.com/line/webpack.kr/wiki/Glossary)
+- [KERAS 공식 문서 한국어판 용어 통일안 - KERAS Team](https://github.com/keras-team/keras-docs-ko#%EC%9A%A9%EC%96%B4-%ED%86%B5%EC%9D%BC%EC%95%88)
+- [정보통신용어사전 - 한국정보통신기술협회](http://word.tta.or.kr/main.do)
+- [KS 표준용어사전 - 국가기술표준원](https://standard.go.kr/KSCI/dictionary/getDictionaryList.do)
+- [MDN 번역 콘텐츠 용어 지침 - MDN](https://github.com/mdn/translated-content/blob/main/docs/ko/translation-guide.md#%EC%9A%A9%EC%96%B4-%EC%A7%80%EC%B9%A8)
 
 [온라인가나다 상세보기(shell은 쉘인가요 셸인가요?)]: https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=&qna_seq=227009&pageIndex=1
 [온라인가나다 상세보기(디렉토리//디렉터리 어느 것이 맞습니까?)]: https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=216&qna_seq=50452
