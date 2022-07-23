@@ -78,11 +78,11 @@
 
 ## 파일 시스템
 
-| 원어      | 음차                   | 번역어 |
-| --------- | ---------------------- | ------ |
-| File      | *파일*                 |        |
-| Directory | *디렉터리*, *디렉토리* |        |
-| Path      | *패스*                 | 경로   |
+| 원어      | 음차                                                                                               | 번역어 |
+| --------- | -------------------------------------------------------------------------------------------------- | ------ |
+| File      | *파일*                                                                                             |        |
+| Directory | *디렉터리*<sup>[온라인가나다 상세보기(디렉토리//디렉터리 어느 것이 맞습니까?)][]</sup>, *디렉토리* |        |
+| Path      | *패스*                                                                                             | 경로   |
 
 ## 프로그래밍 일반
 
@@ -141,3 +141,4 @@
 - [한국어 어문 규범 용례 찾기 - 국립국어원](https://kornorms.korean.go.kr//example/exampleList.do)
 
 [온라인가나다 상세보기(shell은 쉘인가요 셸인가요?)]: https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=&qna_seq=227009&pageIndex=1
+[온라인가나다 상세보기(디렉토리//디렉터리 어느 것이 맞습니까?)]: https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=216&qna_seq=50452
