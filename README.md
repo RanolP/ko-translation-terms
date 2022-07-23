@@ -10,13 +10,59 @@
 
 ## 사이버 보안
 
-| 원어                | 음차                 | 번역어           |
-| ------------------- | -------------------- | ---------------- |
-| Supply Chain Attack | *서플라이 체인 어택* | 공급망 공격      |
-| Threat              | *스렛*               | 위협             |
-| Public Key          | *퍼블릭 키*          | 공개 키          |
-| Private Key         | *프라이빗 키*        | 비밀 키, 개인 키 |
-| Permission          | *퍼미션*             | 권한             |
+| 원어                | 음차                 | 번역어          |
+| ------------------- | -------------------- | --------------- |
+| Supply Chain Attack | *서플라이 체인 어택* | 공급망 공격     |
+| Threat              | *스렛*               | 위협            |
+| Public Key          | *퍼블릭 키*          | 공개 키         |
+| Private Key         | *프라이빗 키*        | 비밀 키/개인 키 |
+| Permission          | *퍼미션*             | 권한            |
+| Encrypt             | *인크립트*           | 암호화하다      |
+| Decrypt             | *디크립트*           | 복호화하다      |
+
+## 수학
+
+| 원어             | 음차               | 번역어        |
+| ---------------- | ------------------ | ------------- |
+| Prime Number     | *프라임 넘버*      | 소수          |
+| Naive Set Theory | *나이브 셋 띠오리* | 소박한 집합론 |
+| Set              | *셋*               | 집합          |
+| Category         | *카테고리*         | 범주          |
+| Algebraic        | *알지브레익*       | 대수적        |
+| Algebra          | *알지브라*         | 대수학        |
+| Linear Algebra   | *리니어 알지브라*  | 선형대수학    |
+| Geometry         | *지오메트리*       | 기하학        |
+
+## 알고리즘
+
+| 원어                      | 음차                     | 번역어                        |
+| ------------------------- | ------------------------ | ----------------------------- |
+| Time Complexity           | *타임 컴플렉시티*        | 시간 복잡도                   |
+| Space Complexity          | *스페이스 컴플렉시티*    | 공간 복잡도                   |
+| Dynamic Programming[DP]   | *다이나믹 프로그래밍*    | 동적 계획법/기억하며 풀기#    |
+| Divide and Conquer        | *디바이드 앤드 컨쿼*     | 분할 정복                     |
+| Greedy                    | *그리디*                 | 탐욕법/욕심쟁이               |
+| Bruteforce                | *브루트포스*             | 무차별 대입                   |
+| Binary Search             | *바이너리 서치*          | 이진 탐색/이분 탐색/이진 검색 |
+| Sort                      | *소트*                   | 정렬                          |
+| Bubble Sort               | *버블 소트*              | 거품 정렬                     |
+| Insertion Sort            | *인서션 소트*            | 삽입 정렬                     |
+| Merge Sort                | *머지 소트*              | 병합 정렬                     |
+| Selection Sort            | *셀렉션 소트*            | 선택 정렬                     |
+| Data Structure            | *데이터 스트럭쳐*        | 자료 구조                     |
+| Linked List               | *링크드 리스트*          | 연결 리스트                   |
+| Hash Set                  | *해시셋*                 | 해시를 이용한 집합#           |
+| Segment Tree              | *세그먼트 트리*          |                               |
+| Graph                     | *그래프*                 |                               |
+| Tree                      | *트리*                   | 나무#                         |
+| Binary Tree               | *바이너리 트리*          | 이진 트리                     |
+| Binary Tree               | *바이너리 트리*          | 이진 트리                     |
+| Complete Binary Tree      | *컴플리트 바이너리 트리* | 완전 이진 트리                |
+| Full Binary Tree          | *풀 바이너리 트리*       | 전 이진 트리                  |
+| Perfect Binary Tree       | *퍼펙트 바이너리 트리*   | 포화 이진 트리                |
+| Binary Search Tree        | *바이너리 서치 트리*     | 이진 탐색 트리                |
+| Depth-First Search[DFS]   | *뎁스 퍼스트 서치*       | 깊이 우선 탐색                |
+| Breadth-First Search[DFS] | *브레드스 퍼스트 서치*   | 너비 우선 탐색                |
 
 ## 일반
 
@@ -40,49 +86,58 @@
 
 ## 프로그래밍 일반
 
-| 원어                             | 음차                                                                       | 번역어                         |
-| -------------------------------- | -------------------------------------------------------------------------- | ------------------------------ |
-| Package                          | *패키지*                                                                   | 꾸러미#                        |
-| Module                           | *모듈*                                                                     |                                |
-| Property                         | *프로퍼티*                                                                 | 속성                           |
-| Attribute                        | *어트리뷰트*                                                               | 속성                           |
-| Annotation                       | *어노테이션*                                                               | 주석                           |
-| Comment                          | *코멘트*                                                                   | 주석                           |
-| Shell                            | *셸*<sup>[온라인가나다 상세보기(shell은 쉘인가요 셸인가요?)][]</sup>, *쉘* |                                |
-| Internationalization[i18n]       | *인터내셔널라이제이션*                                                     | 국제화                         |
-| Localization[l10n]               | *로컬라이제이션*                                                           | 지역화                         |
-| Globalization[g11n]              | *글로벌라이제이션*                                                         | 세계화                         |
-| Configuration                    | *컨피규레이션*                                                             | 설정                           |
-| Setting                          | *세팅*                                                                     | 설정                           |
-| Message                          | *메시지*                                                                   |                                |
-| Inject(ion)                      | *인젝트*/*인젝션*                                                          | 주입(하다)                     |
-| Dependency                       | *디펜던시*                                                                 | 의존성/종속성                  |
-| Application                      | *애플리케이션*/*앱*                                                        | 응용 프로그램/앱               |
-| Library                          | *라이브러리*                                                               |                                |
-| Framework                        | *프레임워크*                                                               |                                |
-| Tool                             | *툴*                                                                       | 도구                           |
-| Intercept                        | *인터셉트*                                                                 | 가로채다                       |
-| Encrypt                          | *인크립트*                                                                 | 암호화하다                     |
-| Decrypt                          | *디크립트*                                                                 | 복호화하다                     |
-| Console                          | *콘솔*                                                                     |                                |
-| Terminal                         | *터미널*                                                                   | 단말#                          |
-| Inter Process Communication[IPC] | *인터 프로세스 커뮤니케이션*                                               | 프로세스 간 통신               |
-| Asynchronous                     | *어싱크로노스*                                                             | 비동기                         |
-| Request                          | *리퀘스트*                                                                 | 요청                           |
-| Response                         | *리스폰스*                                                                 | 응답                           |
-| Lifecycle                        | *라이프사이클*                                                             | 생애주기/생명주기              |
-| Command                          | *커맨드*                                                                   | 명령/명령어                    |
-| Foreign Function Interface[FFI]  | *포레인 펑션 인터페이스*                                                   | 외부 함수 인터페이스           |
-| Abstract(ion)                    | *앱스트랙트*/*앱스트랙션*                                                  | 추상(화)                       |
-| Serialization                    | *시리얼라이제이션*                                                         | 직렬화                         |
-| Deserialization                  | *디시리얼라이제이션*                                                       | 역직렬화                       |
-| Exception                        | *익셉션*                                                                   | 예외                           |
-| Error                            | *에러*                                                                     | 오류                           |
-| Component                        | *컴포넌트*                                                                 | 구성 요소#                     |
-| Merge                            | *머지*                                                                     | 병합                           |
-| Conflict                         | *컨플릭트*                                                                 | 충돌                           |
-| Ownership                        | *오너십*                                                                   | 소유권                         |
-| Dynamic Programming[DP]          | *다이나믹 프로그래밍*                                                      | 동적 프로그래밍/기억하며 풀기# |
-| Architecture                     | *아키텍처*                                                                 | 설계#                          |
+| 원어                             | 음차                                                                       | 번역어               |
+| -------------------------------- | -------------------------------------------------------------------------- | -------------------- |
+| Package                          | *패키지*                                                                   | 꾸러미#              |
+| Module                           | *모듈*                                                                     |                      |
+| Property                         | *프로퍼티*                                                                 | 속성                 |
+| Attribute                        | *어트리뷰트*                                                               | 속성                 |
+| Annotation                       | *어노테이션*                                                               | 주석                 |
+| Comment                          | *코멘트*                                                                   | 주석                 |
+| Shell                            | *셸*<sup>[온라인가나다 상세보기(shell은 쉘인가요 셸인가요?)][]</sup>, *쉘* |                      |
+| Internationalization[i18n]       | *인터내셔널라이제이션*                                                     | 국제화               |
+| Localization[l10n]               | *로컬라이제이션*                                                           | 지역화               |
+| Globalization[g11n]              | *글로벌라이제이션*                                                         | 세계화               |
+| Configuration                    | *컨피규레이션*                                                             | 설정                 |
+| Setting                          | *세팅*                                                                     | 설정                 |
+| Message                          | *메시지*                                                                   |                      |
+| Inject(ion)                      | *인젝트*/*인젝션*                                                          | 주입(하다)           |
+| Dependency                       | *디펜던시*                                                                 | 의존성/종속성        |
+| Application                      | *애플리케이션*/*앱*                                                        | 응용 프로그램/앱     |
+| Library                          | *라이브러리*                                                               |                      |
+| Framework                        | *프레임워크*                                                               |                      |
+| Tool                             | *툴*                                                                       | 도구                 |
+| Intercept                        | *인터셉트*                                                                 | 가로채다             |
+| Console                          | *콘솔*                                                                     |                      |
+| Terminal                         | *터미널*                                                                   | 단말#                |
+| Inter Process Communication[IPC] | *인터 프로세스 커뮤니케이션*                                               | 프로세스 간 통신     |
+| Asynchronous                     | *어싱크로노스*                                                             | 비동기               |
+| Request                          | *리퀘스트*                                                                 | 요청                 |
+| Response                         | *리스폰스*                                                                 | 응답                 |
+| Lifecycle                        | *라이프사이클*                                                             | 생애주기/생명주기    |
+| Command                          | *커맨드*                                                                   | 명령/명령어          |
+| Foreign Function Interface[FFI]  | *포레인 펑션 인터페이스*                                                   | 외부 함수 인터페이스 |
+| Abstract(ion)                    | *앱스트랙트*/*앱스트랙션*                                                  | 추상(화)             |
+| Serialization                    | *시리얼라이제이션*                                                         | 직렬화               |
+| Deserialization                  | *디시리얼라이제이션*                                                       | 역직렬화             |
+| Exception                        | *익셉션*                                                                   | 예외                 |
+| Error                            | *에러*                                                                     | 오류                 |
+| Component                        | *컴포넌트*                                                                 | 구성 요소#           |
+| Merge                            | *머지*                                                                     | 병합                 |
+| Conflict                         | *컨플릭트*                                                                 | 충돌                 |
+| Ownership                        | *오너십*                                                                   | 소유권               |
+| Architecture                     | *아키텍처*                                                                 | 설계#                |
+| Regular Expression[Regex]        | *레귤러 익스프레션*/*[레리][겍긱젝직]스*                                   | 정규 표현식/정규식   |
+| Function                         | *펑션*                                                                     | 함수                 |
+| Procedure                        | *프로시저*                                                                 |                      |
+| Closure                          | *클로저*                                                                   |                      |
+| Routine                          | *루틴*                                                                     |                      |
+
+## 외부 링크
+
+- [수학용어한영번역 - 대한수학회](https://www.kms.or.kr/mathdict/list.html)
+- [번역용례 - 이광근 교수 외](http://kwangkeunyi.snu.ac.kr/lib/term/)
+- [영어-한글 표기 변환기 Alpha -  muik (2016)](https://transliterator.herokuapp.com/)
+- [한국어 어문 규범 용례 찾기 - 국립국어원](https://kornorms.korean.go.kr//example/exampleList.do)
 
 [온라인가나다 상세보기(shell은 쉘인가요 셸인가요?)]: https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=&qna_seq=227009&pageIndex=1
