@@ -174,6 +174,7 @@
 | Exception                              | *익셉션*                                                                   | 예외                         |
 | Expression                             | *익스프레션*                                                               | 표현식/식                    |
 | Foreign Function Interface[FFI]        | *포레인 펑션 인터페이스*                                                   | 외부 함수 인터페이스         |
+| Fragmentation                          | *프래그먼테이션*                                                           | 단편화                       |
 | Framework                              | *프레임워크*                                                               |                              |
 | Function                               | *펑션*                                                                     | 함수                         |
 | Garbage Collection[GC]                 | *가비지 콜렉션*                                                            | 쓰레기 수집                  |
@@ -187,6 +188,7 @@
 | Library                                | *라이브러리*                                                               |                              |
 | Lifecycle                              | *라이프사이클*                                                             | 생애주기/생명주기            |
 | Localization[l10n]                     | *로컬라이제이션*                                                           | 지역화                       |
+| Memory Alignment                       | *메모리 얼라인먼트*                                                        | 메모리 정렬                  |
 | Merge                                  | *머지*                                                                     | 병합                         |
 | Message                                | *메시지*                                                                   |                              |
 | Method                                 | *메서드*                                                                   |                              |
