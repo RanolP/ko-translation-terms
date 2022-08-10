@@ -190,7 +190,7 @@
 | Localization[l10n]                     | *로컬라이제이션*                                                           | 지역화                       |
 | Memory Alignment                       | *메모리 얼라인먼트*                                                        | 메모리 정렬                  |
 | Merge                                  | *머지*                                                                     | 병합                         |
-| Message                                | *메시지*                                                                   |                              |
+| Message                                | *메시지*<sup>[온라인가나다 상세보기('메시지'와 '메세지')][]</sup>, 메세지                                                                   |                              |
 | Method                                 | *메서드*                                                                   |                              |
 | Module                                 | *모듈*                                                                     |                              |
 | Object                                 | *오브젝트*                                                                 | 객체                         |
@@ -227,3 +227,4 @@
 
 [온라인가나다 상세보기(shell은 쉘인가요 셸인가요?)]: https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=&qna_seq=227009&pageIndex=1
 [온라인가나다 상세보기(디렉토리//디렉터리 어느 것이 맞습니까?)]: https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=216&qna_seq=50452
+[온라인가나다 상세보기('메시지'와 '메세지')]: https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=216&qna_seq=121468
