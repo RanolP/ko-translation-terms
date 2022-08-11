@@ -140,6 +140,7 @@
 | Asynchronous                           | *어싱크로노스*                                                             | 비동기                       |
 | Attribute                              | *어트리뷰트*                                                               | 속성/특성                    |
 | Automata                               | *오토마타*                                                                 |                              |
+| Automatic Memory Management            | *오토매틱 메모리 매니지먼트*                                               | 자동 메모리 관리             |
 | Bandwidth                              | *밴드위스*                                                                 | 대역폭                       |
 | Borrow                                 | *바로우*                                                                   | 빌리다                       |
 | Byte                                   | *바이트*                                                                   |                              |
@@ -177,7 +178,7 @@
 | Fragmentation                          | *프래그먼테이션*                                                           | 단편화                       |
 | Framework                              | *프레임워크*                                                               |                              |
 | Function                               | *펑션*                                                                     | 함수                         |
-| Garbage Collection[GC]                 | *가비지 콜렉션*                                                            | 쓰레기 수집                  |
+| Garbage Collection[GC]                 | *가비지 콜렉션*                                                            | 쓰레기 수집/쓰레기 수거      |
 | Globalization[g11n]                    | *글로벌라이제이션*                                                         | 세계화                       |
 | Inheritance                            | *인헤리턴스*                                                               | 상속                         |
 | Inject(ion)                            | *인젝트*/*인젝션*                                                          | 주입(하다)                   |
@@ -190,7 +191,7 @@
 | Localization[l10n]                     | *로컬라이제이션*                                                           | 지역화                       |
 | Memory Alignment                       | *메모리 얼라인먼트*                                                        | 메모리 정렬                  |
 | Merge                                  | *머지*                                                                     | 병합                         |
-| Message                                | *메시지*<sup>[온라인가나다 상세보기('메시지'와 '메세지')][]</sup>, 메세지                                                                   |                              |
+| Message                                | *메시지*<sup>[온라인가나다 상세보기('메시지'와 '메세지')][]</sup>, 메세지  |                              |
 | Method                                 | *메서드*                                                                   |                              |
 | Module                                 | *모듈*                                                                     |                              |
 | Object                                 | *오브젝트*                                                                 | 객체                         |
@@ -201,6 +202,7 @@
 | Procedure                              | *프로시저*                                                                 |                              |
 | Property                               | *프로퍼티*                                                                 | 속성                         |
 | Reference                              | *레퍼런스*                                                                 | 참조, 참고 문서              |
+| Reference Counting                     | *레퍼런스 카운팅*                                                          | 참조 세기 (기법)             |
 | Regular Expression[Regex]              | *레귤러 익스프레션*/*[레리][겍긱젝직]스*                                   | 정규 표현식/정규식           |
 | Request                                | *리퀘스트*                                                                 | 요청                         |
 | Response                               | *리스폰스*                                                                 | 응답                         |
