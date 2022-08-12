@@ -188,7 +188,7 @@
 | Lazy                                   | *레이지*                                                                   | (계산을) 미루는              |
 | Library                                | *라이브러리*                                                               |                              |
 | Lifecycle                              | *라이프사이클*                                                             | 생애주기/생명주기            |
-| Lifetime                               | *라이프타임*                                                               | 생존 범위/생존 기간          |
+| Lifetime                               | *라이프타임*                                                               | 수명/생존 기간/생존 범위     |
 | Localization[l10n]                     | *로컬라이제이션*                                                           | 지역화                       |
 | Memory Alignment                       | *메모리 얼라인먼트*                                                        | 메모리 정렬                  |
 | Merge                                  | *머지*                                                                     | 병합                         |
@@ -201,6 +201,7 @@
 | Ownership                              | *오너십*                                                                   | 소유권                       |
 | Package                                | *패키지*                                                                   | 꾸러미#                      |
 | Polymorphism                           | *폴리모피즘*                                                               | 다형성                       |
+| Prior Art                              | *프라이오 아트*                                                            | 선행 기술                    |
 | Procedure                              | *프로시저*                                                                 |                              |
 | Property                               | *프로퍼티*                                                                 | 속성                         |
 | Reference                              | *레퍼런스*                                                                 | 참조, 참고 문서              |
@@ -212,6 +213,7 @@
 | Serialization                          | *시리얼라이제이션*                                                         | 직렬화                       |
 | Setting                                | *세팅*                                                                     | 설정                         |
 | Shell                                  | *셸*<sup>[온라인가나다 상세보기(shell은 쉘인가요 셸인가요?)][]</sup>, *쉘* |                              |
+| State of the Art[SOTA]                 | *스테이트 오브 더 아트*                                                    | 최첨단                       |
 | Statement                              | *스테이트먼트*                                                             | 구문/문                      |
 | Terminal                               | *터미널*                                                                   | 단말#                        |
 | Tool                                   | *툴*                                                                       | 도구                         |
