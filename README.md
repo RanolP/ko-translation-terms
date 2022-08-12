@@ -20,6 +20,7 @@
   - [인공지능](#인공지능)
   - [일반](#일반)
   - [파일 시스템](#파일-시스템)
+  - [통신](#통신)
   - [프로그래밍 일반](#프로그래밍-일반)
   - [외부 링크](#외부-링크)
 
@@ -42,6 +43,7 @@
 | Permission          | *퍼미션*             | 권한            |
 | Private Key         | *프라이빗 키*        | 비밀 키/개인 키 |
 | Public Key          | *퍼블릭 키*          | 공개 키         |
+| Security            | *시큐리티*           | 보안            |
 | Supply Chain Attack | *서플라이 체인 어택* | 공급망 공격     |
 | Threat              | *스렛*               | 위협            |
 
@@ -53,6 +55,7 @@
 | Algebraic        | *알지브레익*       | 대수적        |
 | Boolean Algebra  | *불리언 알지브라*  | 부울 대수     |
 | Category         | *카테고리*         | 범주          |
+| Game Theory      | *게임 띠오리*      | 게임 이론     |
 | Geometry         | *지오메트리*       | 기하학        |
 | Linear Algebra   | *리니어 알지브라*  | 선형 대수학   |
 | Naive Set Theory | *나이브 셋 띠오리* | 소박한 집합론 |
@@ -114,109 +117,124 @@
 
 ## 파일 시스템
 
-| 원어      | 음차                                                                                               | 번역어 |
-| --------- | -------------------------------------------------------------------------------------------------- | ------ |
-| Directory | *디렉터리*<sup>[온라인가나다 상세보기(디렉토리//디렉터리 어느 것이 맞습니까?)][]</sup>, *디렉토리* |        |
-| File      | *파일*                                                                                             |        |
-| Path      | *패스*                                                                                             | 경로   |
+| 원어               | 음차                                                                                               | 번역어      |
+| ------------------ | -------------------------------------------------------------------------------------------------- | ----------- |
+| Directory          | *디렉터리*<sup>[온라인가나다 상세보기(디렉토리//디렉터리 어느 것이 맞습니까?)][]</sup>, *디렉토리* |             |
+| File               | *파일*                                                                                             |             |
+| Filename Extension | *파일네임 익스텐션*                                                                                | 파일 확장자 |
+| Path               | *패스*                                                                                             | 경로        |
+
+## 통신
+
+| 원어                 | 음차                  | 번역어 |
+| -------------------- | --------------------- | ------ |
+| Transmission Network | *트랜스미션 네트워크* | 통신망 |
 
 ## 프로그래밍 일반
 
-| 원어                                   | 음차                                                                       | 번역어                       |
-| -------------------------------------- | -------------------------------------------------------------------------- | ---------------------------- |
-| Abstract(ion)                          | *앱스트랙트*/*앱스트랙션*                                                  | 추상(화)                     |
-| Abstract Data Type[ADT]                | *앱스트랙트 데이터 타입*                                                   | 추상 자료형/추상 데이터 타입 |
-| Allocation                             | *얼로케이션*                                                               | 할당                         |
-| Annotation                             | *어노테이션*                                                               | 주석                         |
-| Application                            | *애플리케이션*/*앱*                                                        | 응용 프로그램/앱             |
-| Application Programming Interface[API] | *애플리케이션 프로그래밍 인터페이스*                                       |                              |
-| Array                                  | *어레이*                                                                   | 배열                         |
-| Architecture                           | *아키텍처*                                                                 | 설계#                        |
-| Archive                                | *아카이브*                                                                 |                              |
-| ASCII                                  | *아스키*                                                                   |                              |
-| Assert                                 | *어서트*                                                                   | 단언                         |
-| Assignment                             | *어사인먼트*                                                               | 대입/할당                    |
-| Associative Array                      | *어소시에이티브 어레이*                                                    | 연관 배열                    |
-| Asynchronous                           | *어싱크로노스*                                                             | 비동기                       |
-| Attribute                              | *어트리뷰트*                                                               | 속성/특성                    |
-| Automata                               | *오토마타*                                                                 |                              |
-| Automatic Memory Management            | *오토매틱 메모리 매니지먼트*                                               | 자동 메모리 관리             |
-| Bandwidth                              | *밴드위스*                                                                 | 대역폭                       |
-| Borrow                                 | *바로우*                                                                   | 빌리다                       |
-| Byte                                   | *바이트*                                                                   |                              |
-| Callback                               | *콜백*                                                                     |                              |
-| Central Processing Unit[CPU]           | *센트럴 프로세싱 유닛*                                                     | 중앙 처리 장치               |
-| Class                                  | *클래스*                                                                   |                              |
-| Closure                                | *클로저*                                                                   |                              |
-| Command                                | *커맨드*                                                                   | 명령/명령어                  |
-| Comment                                | *코멘트*                                                                   | 주석                         |
-| Compiler                               | *컴파일러*                                                                 |                              |
-| Component                              | *컴포넌트*                                                                 | 구성 요소#                   |
-| Compress(ion)                          | *컴프레스*/*컴프레션*                                                      | 압축(하다)                   |
-| Computability Theory                   | *컴퓨터빌리티 띠오리*                                                      | 계산 가능성 이론             |
-| Computation                            | *컴퓨테이션*                                                               | 계산                         |
-| Computer                               | *컴퓨터*                                                                   | 셈틀#                        |
-| Computer Architecture                  | *컴퓨터 아키텍처*                                                          | 컴퓨터 구조                  |
-| Computer Graphics                      | *컴퓨터 그래픽스*                                                          |                              |
-| Concatenation                          | *컨케트네이션*                                                             | 연결/접합                    |
-| Concurrency                            | *컨커런시*                                                                 | 동시성                       |
-| Conditional                            | *컨디셔널*                                                                 | 조건적                       |
-| Configuration                          | *컨피규레이션*                                                             | 설정                         |
-| Conflict                               | *컨플릭트*                                                                 | 충돌                         |
-| Console                                | *콘솔*                                                                     |                              |
-| Continuation                           | *컨티뉴에이션*                                                             | 후속문                       |
-| Control Flow                           | *컨트롤 플로*                                                              | 흐름 제어                    |
-| Control Panel                          | *컨트롤 패널*                                                              | 제어판                       |
-| Copy                                   | *카피*                                                                     | 복사                         |
-| Declaration                            | *데클러레이션*                                                             | 선언                         |
-| Dependency                             | *디펜던시*                                                                 | 의존성/종속성                |
-| Deserialization                        | *디시리얼라이제이션*                                                       | 역직렬화                     |
-| Error                                  | *에러*                                                                     | 오류                         |
-| Exception                              | *익셉션*                                                                   | 예외                         |
-| Expression                             | *익스프레션*                                                               | 표현식/식                    |
-| Foreign Function Interface[FFI]        | *포레인 펑션 인터페이스*                                                   | 외부 함수 인터페이스         |
-| Fragmentation                          | *프래그먼테이션*                                                           | 단편화                       |
-| Framework                              | *프레임워크*                                                               |                              |
-| Function                               | *펑션*                                                                     | 함수                         |
-| Garbage Collection[GC]                 | *가비지 콜렉션*                                                            | 쓰레기 수집/쓰레기 수거      |
-| Globalization[g11n]                    | *글로벌라이제이션*                                                         | 세계화                       |
-| Inheritance                            | *인헤리턴스*                                                               | 상속                         |
-| Inject(ion)                            | *인젝트*/*인젝션*                                                          | 주입(하다)                   |
-| Inter Process Communication[IPC]       | *인터 프로세스 커뮤니케이션*                                               | 프로세스 간 통신             |
-| Intercept                              | *인터셉트*                                                                 | 가로채다                     |
-| Internationalization[i18n]             | *인터내셔널라이제이션*                                                     | 국제화                       |
-| Lazy                                   | *레이지*                                                                   | (계산을) 미루는              |
-| Library                                | *라이브러리*                                                               |                              |
-| Lifecycle                              | *라이프사이클*                                                             | 생애주기/생명주기            |
-| Lifetime                               | *라이프타임*                                                               | 수명/생존 기간/생존 범위     |
-| Localization[l10n]                     | *로컬라이제이션*                                                           | 지역화                       |
-| Memory Alignment                       | *메모리 얼라인먼트*                                                        | 메모리 정렬                  |
-| Merge                                  | *머지*                                                                     | 병합                         |
-| Message                                | *메시지*<sup>[온라인가나다 상세보기('메시지'와 '메세지')][]</sup>, 메세지  |                              |
-| Method                                 | *메서드*                                                                   |                              |
-| Module                                 | *모듈*                                                                     |                              |
-| Namespace                              | *네임스페이스*                                                             | 이름 공간                    |
-| Object                                 | *오브젝트*                                                                 | 객체                         |
-| Operating System[OS]                   | *오퍼레이팅 시스템*                                                        | 운영 체제                    |
-| Ownership                              | *오너십*                                                                   | 소유권                       |
-| Package                                | *패키지*                                                                   | 꾸러미#                      |
-| Polymorphism                           | *폴리모피즘*                                                               | 다형성                       |
-| Prior Art                              | *프라이오 아트*                                                            | 선행 기술                    |
-| Procedure                              | *프로시저*                                                                 |                              |
-| Property                               | *프로퍼티*                                                                 | 속성                         |
-| Reference                              | *레퍼런스*                                                                 | 참조, 참고 문서              |
-| Reference Counting                     | *레퍼런스 카운팅*                                                          | 참조 세기 (기법)             |
-| Regular Expression[Regex]              | *레귤러 익스프레션*/*[레리][겍긱젝직]스*                                   | 정규 표현식/정규식           |
-| Request                                | *리퀘스트*                                                                 | 요청                         |
-| Response                               | *리스폰스*                                                                 | 응답                         |
-| Routine                                | *루틴*                                                                     |                              |
-| Serialization                          | *시리얼라이제이션*                                                         | 직렬화                       |
-| Setting                                | *세팅*                                                                     | 설정                         |
-| Shell                                  | *셸*<sup>[온라인가나다 상세보기(shell은 쉘인가요 셸인가요?)][]</sup>, *쉘* |                              |
-| State of the Art[SOTA]                 | *스테이트 오브 더 아트*                                                    | 최첨단                       |
-| Statement                              | *스테이트먼트*                                                             | 구문/문                      |
-| Terminal                               | *터미널*                                                                   | 단말#                        |
-| Tool                                   | *툴*                                                                       | 도구                         |
+| 원어                                   | 음차                                                                       | 번역어                             |
+| -------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------- |
+| Abstract(ion)                          | *앱스트랙트*/*앱스트랙션*                                                  | 추상(화)                           |
+| Abstract Data Type[ADT]                | *앱스트랙트 데이터 타입*                                                   | 추상 자료형/추상 데이터 타입       |
+| Allocation                             | *얼로케이션*                                                               | 할당                               |
+| Annotation                             | *어노테이션*                                                               | 주석                               |
+| Application                            | *애플리케이션*/*앱*                                                        | 응용 프로그램/앱                   |
+| Application Programming Interface[API] | *애플리케이션 프로그래밍 인터페이스*                                       |                                    |
+| Array                                  | *어레이*                                                                   | 배열                               |
+| Architecture                           | *아키텍처*                                                                 | 설계#                              |
+| Archive                                | *아카이브*                                                                 |                                    |
+| ASCII                                  | *아스키*                                                                   |                                    |
+| Assert                                 | *어서트*                                                                   | 단언                               |
+| Assignment                             | *어사인먼트*                                                               | 대입/할당                          |
+| Associative Array                      | *어소시에이티브 어레이*                                                    | 연관 배열                          |
+| Asynchronous                           | *어싱크로노스*                                                             | 비동기                             |
+| Attribute                              | *어트리뷰트*                                                               | 속성/특성                          |
+| Automata                               | *오토마타*                                                                 |                                    |
+| Automatic Memory Management            | *오토매틱 메모리 매니지먼트*                                               | 자동 메모리 관리                   |
+| Bandwidth                              | *밴드위스*                                                                 | 대역폭                             |
+| Borrow                                 | *바로우*                                                                   | 빌리다                             |
+| Byte                                   | *바이트*                                                                   |                                    |
+| Callback                               | *콜백*                                                                     |                                    |
+| Central Processing Unit[CPU]           | *센트럴 프로세싱 유닛*                                                     | 중앙 처리 장치                     |
+| Class                                  | *클래스*                                                                   |                                    |
+| Closure                                | *클로저*                                                                   |                                    |
+| Command                                | *커맨드*                                                                   | 명령/명령어                        |
+| Comment                                | *코멘트*                                                                   | 주석                               |
+| Compiler                               | *컴파일러*                                                                 |                                    |
+| Component                              | *컴포넌트*                                                                 | 구성 요소#                         |
+| Compress(ion)                          | *컴프레스*/*컴프레션*                                                      | 압축(하다)                         |
+| Computability Theory                   | *컴퓨터빌리티 띠오리*                                                      | 계산 가능성 이론                   |
+| Computation                            | *컴퓨테이션*                                                               | 계산                               |
+| Computer                               | *컴퓨터*                                                                   | 셈틀#                              |
+| Computer Architecture                  | *컴퓨터 아키텍처*                                                          | 컴퓨터 구조                        |
+| Computer Graphics                      | *컴퓨터 그래픽스*                                                          |                                    |
+| Concatenation                          | *컨케트네이션*                                                             | 연결/접합                          |
+| Concurrency                            | *컨커런시*                                                                 | 동시성                             |
+| Conditional                            | *컨디셔널*                                                                 | 조건적                             |
+| Configuration                          | *컨피규레이션*                                                             | 설정                               |
+| Conflict                               | *컨플릭트*                                                                 | 충돌                               |
+| Console                                | *콘솔*                                                                     |                                    |
+| Continuation                           | *컨티뉴에이션*                                                             | 후속문                             |
+| Control Flow                           | *컨트롤 플로*                                                              | 흐름 제어                          |
+| Control Panel                          | *컨트롤 패널*                                                              | 제어판                             |
+| Copy                                   | *카피*                                                                     | 복사                               |
+| Declaration                            | *데클러레이션*                                                             | 선언                               |
+| Dependency                             | *디펜던시*                                                                 | 의존성/종속성                      |
+| Deserialization                        | *디시리얼라이제이션*                                                       | 역직렬화                           |
+| Documentation                          | *도큐멘테이션*                                                             | 문서                               |
+| Double Precision                       | *더블 프리시전*                                                            | 배정밀도                           |
+| Error                                  | *에러*                                                                     | 오류                               |
+| Event-Driven Programming               | *이벤트 드리븐 프로그래밍*                                                 | 사건 기반 프로그래밍               |
+| Exception                              | *익셉션*                                                                   | 예외                               |
+| Executable                             | *익스큐터블*                                                               | 실행 가능한                        |
+| Expression                             | *익스프레션*                                                               | 표현식/식                          |
+| Fault Tolerance                        | *폴트 톨러런스*                                                            | 장애 허용/결함 허용                |
+| Field                                  | *필드*                                                                     |                                    |
+| Floating Point Arithmetic              | *플로팅 포인트 아리스메틱*                                                 | 부동 소수점 연산/둥둥 소수점 연산# |
+| Foreign Function Interface[FFI]        | *포레인 펑션 인터페이스*                                                   | 외부 함수 인터페이스               |
+| Fragmentation                          | *프래그먼테이션*                                                           | 단편화                             |
+| Framework                              | *프레임워크*                                                               |                                    |
+| Function                               | *펑션*                                                                     | 함수                               |
+| Garbage Collection[GC]                 | *가비지 콜렉션*                                                            | 쓰레기 수집/쓰레기 수거            |
+| Global Variable                        | *글로벌 버라이어블*                                                        | 전역 변수                          |
+| Globalization[g11n]                    | *글로벌라이제이션*                                                         | 세계화                             |
+| Inheritance                            | *인헤리턴스*                                                               | 상속                               |
+| Inject(ion)                            | *인젝트*/*인젝션*                                                          | 주입(하다)                         |
+| Inter Process Communication[IPC]       | *인터 프로세스 커뮤니케이션*                                               | 프로세스 간 통신                   |
+| Intercept                              | *인터셉트*                                                                 | 가로채다                           |
+| Internationalization[i18n]             | *인터내셔널라이제이션*                                                     | 국제화                             |
+| Lazy                                   | *레이지*                                                                   | (계산을) 미루는                    |
+| Library                                | *라이브러리*                                                               |                                    |
+| Lifecycle                              | *라이프사이클*                                                             | 생애주기/생명주기                  |
+| Lifetime                               | *라이프타임*                                                               | 수명/생존 기간/생존 범위           |
+| Localization[l10n]                     | *로컬라이제이션*                                                           | 지역화                             |
+| Memory Alignment                       | *메모리 얼라인먼트*                                                        | 메모리 정렬                        |
+| Merge                                  | *머지*                                                                     | 병합                               |
+| Message                                | *메시지*<sup>[온라인가나다 상세보기('메시지'와 '메세지')][]</sup>, 메세지  |                                    |
+| Method                                 | *메서드*                                                                   |                                    |
+| Module                                 | *모듈*                                                                     |                                    |
+| Namespace                              | *네임스페이스*                                                             | 이름 공간                          |
+| Object                                 | *오브젝트*                                                                 | 객체                               |
+| Operating System[OS]                   | *오퍼레이팅 시스템*                                                        | 운영 체제                          |
+| Ownership                              | *오너십*                                                                   | 소유권                             |
+| Package                                | *패키지*                                                                   | 꾸러미#                            |
+| Polymorphism                           | *폴리모피즘*                                                               | 다형성                             |
+| Prior Art                              | *프라이오 아트*                                                            | 선행 기술                          |
+| Procedure                              | *프로시저*                                                                 |                                    |
+| Property                               | *프로퍼티*                                                                 | 속성                               |
+| Reference                              | *레퍼런스*                                                                 | 참조, 참고 문서                    |
+| Reference Counting                     | *레퍼런스 카운팅*                                                          | 참조 세기 (기법)                   |
+| Regular Expression[Regex]              | *레귤러 익스프레션*/*[레리][겍긱젝직]스*                                   | 정규 표현식/정규식                 |
+| Request                                | *리퀘스트*                                                                 | 요청                               |
+| Response                               | *리스폰스*                                                                 | 응답                               |
+| Routine                                | *루틴*                                                                     |                                    |
+| Serialization                          | *시리얼라이제이션*                                                         | 직렬화                             |
+| Setting                                | *세팅*                                                                     | 설정                               |
+| Shell                                  | *셸*<sup>[온라인가나다 상세보기(shell은 쉘인가요 셸인가요?)][]</sup>, *쉘* |                                    |
+| State of the Art[SOTA]                 | *스테이트 오브 더 아트*                                                    | 최첨단                             |
+| Statement                              | *스테이트먼트*                                                             | 구문/문                            |
+| Terminal                               | *터미널*                                                                   | 단말#                              |
+| Tool                                   | *툴*                                                                       | 도구                               |
 
 ## 외부 링크
 
