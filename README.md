@@ -160,6 +160,7 @@
 | Automata                               | *오토마타*                                                                 |                                    |
 | Automatic Memory Management            | *오토매틱 메모리 매니지먼트*                                               | 자동 메모리 관리                   |
 | Bandwidth                              | *밴드위스*                                                                 | 대역폭                             |
+| Booting                                | *부팅*                                                                     | 시동#                              |
 | Borrow                                 | *바로우*                                                                   | 빌리다                             |
 | Byte                                   | *바이트*                                                                   |                                    |
 | Callback                               | *콜백*                                                                     |                                    |
