@@ -212,6 +212,9 @@
 | Inter Process Communication[IPC]       | *인터 프로세스 커뮤니케이션*                                               | 프로세스 간 통신                   |
 | Intercept                              | *인터셉트*                                                                 | 가로채다                           |
 | Internationalization[i18n]             | *인터내셔널라이제이션*                                                     | 국제화                             |
+| Key                                    | *키*                                                                       | 글쇠                               |
+| Keyboard                               | *키보드*                                                                   | 자판/글쇠판#                       |
+| Keyword                                | *키워드*                                                                   | 핵심어                             |
 | Lazy                                   | *레이지*                                                                   | (계산을) 미루는                    |
 | Library                                | *라이브러리*                                                               |                                    |
 | Lifecycle                              | *라이프사이클*                                                             | 생애주기/생명주기                  |
