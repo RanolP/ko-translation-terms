@@ -199,7 +199,7 @@
 | Expression                             | *익스프레션*                                                               | 표현식/식                          |
 | Extension                              | *익스텐션*                                                                 | 확장                               |
 | Fault Tolerance                        | *폴트 톨러런스*                                                            | 장애 허용/결함 허용                |
-| Field                                  | *필드*                                                                     |                                    |
+| Field                                  | *필드*                                                                     | 입력란                             |
 | Floating Point Arithmetic              | *플로팅 포인트 아리스메틱*                                                 | 부동 소수점 연산/둥둥 소수점 연산# |
 | Foreign Function Interface[FFI]        | *포레인 펑션 인터페이스*                                                   | 외부 함수 인터페이스               |
 | Fragmentation                          | *프래그먼테이션*                                                           | 단편화                             |
