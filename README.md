@@ -197,6 +197,7 @@
 | Exception                              | *익셉션*                                                                   | 예외                               |
 | Executable                             | *익스큐터블*                                                               | 실행 가능한                        |
 | Expression                             | *익스프레션*                                                               | 표현식/식                          |
+| Extension                              | *익스텐션*                                                                 | 확장                               |
 | Fault Tolerance                        | *폴트 톨러런스*                                                            | 장애 허용/결함 허용                |
 | Field                                  | *필드*                                                                     |                                    |
 | Floating Point Arithmetic              | *플로팅 포인트 아리스메틱*                                                 | 부동 소수점 연산/둥둥 소수점 연산# |
