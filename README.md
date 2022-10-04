@@ -191,6 +191,7 @@
 | Dependency                             | *디펜던시*                                                                 | 의존성/종속성                      |
 | Deserialization                        | *디시리얼라이제이션*                                                       | 역직렬화                           |
 | Documentation                          | *도큐멘테이션*                                                             | 문서                               |
+| Domain                                 | *도메인*                                                                   | 문제 영역                          |
 | Double Precision                       | *더블 프리시전*                                                            | 배정밀도                           |
 | Error                                  | *에러*                                                                     | 오류                               |
 | Event-Driven Programming               | *이벤트 드리븐 프로그래밍*                                                 | 사건 기반 프로그래밍               |
