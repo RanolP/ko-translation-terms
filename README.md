@@ -164,6 +164,7 @@
 | Bandwidth                              | *밴드위스*                                                                 | 대역폭                             |
 | Booting                                | *부팅*                                                                     | 시동#                              |
 | Borrow                                 | *바로우*                                                                   | 빌리다                             |
+| Breaking Change                        | *브레이킹 체인지*                                                          | 단절적 변경#                       |
 | Byte                                   | *바이트*                                                                   |                                    |
 | Callback                               | *콜백*                                                                     |                                    |
 | Central Processing Unit[CPU]           | *센트럴 프로세싱 유닛*                                                     | 중앙 처리 장치                     |
@@ -244,6 +245,7 @@
 | Request                                | *리퀘스트*                                                                 | 요청                               |
 | Response                               | *리스폰스*                                                                 | 응답                               |
 | Routine                                | *루틴*                                                                     |                                    |
+| Semanting Versioning                   | *시맨틱 버저닝*                                                            | 유의적 버전                        |
 | Serialization                          | *시리얼라이제이션*                                                         | 직렬화                             |
 | Setting                                | *세팅*                                                                     | 설정                               |
 | Shell                                  | *셸*<sup>[온라인가나다 상세보기(shell은 쉘인가요 셸인가요?)][]</sup>, *쉘* |                                    |
