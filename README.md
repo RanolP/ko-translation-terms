@@ -229,6 +229,7 @@
 | Merge                                  | *머지*                                                                     | 병합                                                            |
 | Message                                | *메시지*<sup>[온라인가나다 상세보기('메시지'와 '메세지')][]</sup>, 메세지  |                                                                 |
 | Method                                 | *메서드*                                                                   |                                                                 |
+| Minifying                              | *미니파잉*                                                                 | 경량화                                                          |
 | Module                                 | *모듈*                                                                     |                                                                 |
 | Namespace                              | *네임스페이스*                                                             | 이름 공간                                                       |
 | Object                                 | *오브젝트*                                                                 | 객체                                                            |
@@ -236,6 +237,7 @@
 | Ownership                              | *오너십*                                                                   | 소유권                                                          |
 | Package                                | *패키지*                                                                   | 꾸러미#                                                         |
 | Polymorphism                           | *폴리모피즘*                                                               | 다형성                                                          |
+| Pre-                                   | *프리*                                                                     | 사전/미리                                                       |
 | Prior Art                              | *프라이오 아트*                                                            | 선행 기술                                                       |
 | Procedure                              | *프로시저*                                                                 |                                                                 |
 | Property                               | *프로퍼티*                                                                 | 속성                                                            |
