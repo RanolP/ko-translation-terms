@@ -264,12 +264,15 @@
 - [수학용어한영번역 - 대한수학회](https://www.kms.or.kr/mathdict/list.html)
 - [번역용례 - 이광근 교수 외](http://kwangkeunyi.snu.ac.kr/lib/term/)
 - [영어-한글 표기 변환기 Alpha -  muik (2016)](https://transliterator.herokuapp.com/)
-- [한국어 어문 규범 용례 찾기 - 국립국어원](https://kornorms.korean.go.kr//example/exampleList.do)
+- [한국어 어문 규범 용례 찾기 - 국립국어원](https://kornorms.korean.go.kr/example/exampleList.do)
+- [다듬은 말 - 국립국어원](https://korean.go.kr/front/imprv/refineList.do?mn_id=158)
+- [표준 전문용어 - 국립국어원](https://korean.go.kr/front/imprv/stndrdList.do?mn_id=159)
 - [Webpack 문서 한국어 번역 용어집 - LINE](https://github.com/line/webpack.kr/wiki/Glossary)
 - [KERAS 공식 문서 한국어판 용어 통일안 - KERAS Team](https://github.com/keras-team/keras-docs-ko#%EC%9A%A9%EC%96%B4-%ED%86%B5%EC%9D%BC%EC%95%88)
 - [정보통신용어사전 - 한국정보통신기술협회](http://word.tta.or.kr/main.do)
 - [KS 표준용어사전 - 국가기술표준원](https://standard.go.kr/KSCI/dictionary/getDictionaryList.do)
 - [MDN 번역 콘텐츠 용어 지침 - MDN](https://github.com/mdn/translated-content/blob/main/docs/ko/translation-guide.md#%EC%9A%A9%EC%96%B4-%EC%A7%80%EC%B9%A8)
+- [쉬운 전문용어](https://easyword.kr/)
 - [Glossary of Computer Science - Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_computer_science)
 
 [온라인가나다 상세보기(shell은 쉘인가요 셸인가요?)]: https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=&qna_seq=227009&pageIndex=1
