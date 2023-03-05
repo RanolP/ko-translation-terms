@@ -15,10 +15,12 @@
 - [ko-translation-terms](#ko-translation-terms)
   - [목차](#목차)
   - [Git](#git)
+  - [React](#react)
   - [Rust](#rust)
   - [사이버 보안](#사이버-보안)
   - [수학](#수학)
   - [알고리즘](#알고리즘)
+  - [웹](#웹)
   - [인공지능](#인공지능)
   - [일반](#일반)
   - [파일 시스템](#파일-시스템)
@@ -35,6 +37,14 @@
 | History       | *히스토리*      | 역사            |
 | Merge Request | *머지 리퀘스트* | 병합 요청       |
 | Repository    | *레포지토리*    | 저장소          |
+
+## React
+
+| 원어             | 음차                   | 번역어          |
+| ---------------- | ---------------------- | --------------- |
+| Dehydrat(e\|ion) | *디하이드레이(트\|션)* | 말려내다#       |
+| Effect           | *이펙트*               |                 |
+| Hydrat(e\|ion)   | *하이드레이(트\|션)*   | 수화, 적셔내다# |
 
 ## Rust
 
@@ -99,6 +109,13 @@
 | Space Complexity          | *스페이스 컴플렉시티*    | 공간 복잡도                   |
 | Time Complexity           | *타임 컴플렉시티*        | 시간 복잡도                   |
 | Tree                      | *트리*                   | 수형도/나무#                  |
+
+## 웹
+
+| 원어       | 음차         | 번역어                                           |
+| ---------- | ------------ | ------------------------------------------------ |
+| Attribute  | *어트리뷰트* | 특성<sup>[특성 - MDN Web Docs 용어 사전][]</sup> |
+| Responsive | *리스폰시브* | 반응형/호응적#                                   |
 
 ## 인공지능
 
@@ -278,3 +295,4 @@
 [온라인가나다 상세보기(shell은 쉘인가요 셸인가요?)]: https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=&qna_seq=227009&pageIndex=1
 [온라인가나다 상세보기(디렉토리//디렉터리 어느 것이 맞습니까?)]: https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=216&qna_seq=50452
 [온라인가나다 상세보기('메시지'와 '메세지')]: https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=216&qna_seq=121468
+[특성 - MDN Web Docs 용어 사전]: https://developer.mozilla.org/en-US/docs/Glossary/Attribute
